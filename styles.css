@@ -1,0 +1,60 @@
+/* main body styling */
+
+body {
+    margin: 0, auto;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+
+header { 
+    text-align: center;
+}
+
+h1 { 
+    color: orangered;
+    font-size: 60px;
+}
+
+p { 
+    color: grey;
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+}
+
+.eggbox {
+    /* border: black solid; */
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50px;
+}
+
+button {
+    padding: 15px;
+    margin: 20px;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    background-color: orange;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background-color: rgb(254, 221, 160);
+    /* color: white; */
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 30px;
+}
